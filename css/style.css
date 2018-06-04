@@ -11,5 +11,5 @@ Type Selector
 */
 p { /* Select all p*/
 font-size: 1em; /* 1 em is 16 pixels*/
-line-height: 145em;
+line-height: 1.5em;
 }
